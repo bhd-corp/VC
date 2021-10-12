@@ -1,0 +1,100 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	background: url(1.jpg);
+}
+h1 {
+	color: purple;
+	font-size: 70px;
+	text-align: center;
+	position: fixed;
+	left: -20px;
+	top: 40px;
+}
+.form1 {
+	width: 430px;
+	height: 600px;
+	background: #fff;
+	box-shadow: 2px 2px 30px #c3c3c8;
+	border-radius: 40px;
+	position: fixed;top:300px;
+	left: 40px;
+	/*border: 10px solid purple;*/
+}
+.form2 {
+	width: 430px;
+	height: 600px;
+	background: #fff;
+	box-shadow: 2px 2px 30px #c3c3c8;
+	border-radius: 40px;
+	position: fixed;top:300px;
+	left: 510px;
+	/*border: 10px solid purple;*/
+}
+.form1 i {
+	color: purple;
+	font-size: 150px;
+	position: fixed;left: 178px;
+	top: 450px;
+	margin: auto;
+}
+#h2 {
+	display: none;
+}
+.form1 h2 {
+	color: purple;
+	text-align: center;
+	position: relative;
+	font-size: 70px;
+	top: 300px;
+}
+#ch {
+	font-size: 90px;
+	top: 865px;
+	position: fixed;
+	color: purple;
+	display: none;
+	left: 203px;
+}
+.form2 i {
+	color: red;
+	font-size: 150px;
+	position: fixed;left: 650px;
+	top: 450px;
+	margin: auto;
+}
+#h2 {
+	display: none;
+}
+.form2 h2 {
+	color: red;
+	text-align: center;
+	position: relative;
+	font-size: 50px;
+	top: 330px;
+}
+button {
+	width: 400px;
+	height: 100px;
+	background: #fff;
+	color: #000;
+	border: none;
+	font-size: 70px;
+	position: fixed;top: 1000px;
+	left: 285px;
+	font-family: "Raleway";
+	font-weight: 900;
+}
+.form1 h4 {
+	font-size: 40px;
+	font-family: "poppins";
+	left: 370px;
+	top: 770px;
+	position: fixed;
+}
+.form2 h4 {
+	font-size: 40px;
+	font-family: "poppins";
+	left: 846px;
+	top: 770px;
+	position: fixed;
+}
